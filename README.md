@@ -1,5 +1,5 @@
 # FactoryDesignPattern
-FactoryDesignPattern -> This is useful when we want to create Objects thaat fall under same Category or with similar Charcateristics 
+FactoryDesignPattern -> This is useful when we want to create Objects that fall under same Category or with similar Charcateristics 
 
 CLIENT CODE ---(view)--> FACTORY CLASS-->(create ojects of needed class at run time) --> Call Concrete method of the same class
 
